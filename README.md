@@ -1,6 +1,16 @@
 ## Hi, My name is Sameer Mian
 
-<!--
+I am a 17 Year old from the US who is aspiring to become a Humanoid Robotics Engineer one day. I like to go on walks/runs, and I am learning to make electronics right now. 
+
+What I'm currently working in:
+
+ - I'm currently working on learning electronics via starter kits. Hopefully will have a chance to start that soon though.
+ - Learning how to use coding languages like HTML and CSS, already learned Python.
+
+
+
+
+<!-- 
 **sameerminullahmian-jpg/sameerminullahmian-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
